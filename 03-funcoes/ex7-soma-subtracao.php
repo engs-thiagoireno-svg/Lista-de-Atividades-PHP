@@ -2,7 +2,7 @@
 function calcular($num1, $num2) {
     $soma = $num1 + $num2;
     $subtracao = $num1 - $num2;
-    $frase = "Uau, " . $num1 . " e " . $num2 . " juntos formam números incríveis!";
+    $frase = "Uau, " . $num1 . " e " . $num2 . " juntos formam essa merda ai!";
 
     return [
         "soma" => $soma,

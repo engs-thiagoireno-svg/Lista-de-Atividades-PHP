@@ -1,7 +1,7 @@
 <?php
 $numero1 = 10;
 $numero2 = 5;
-$operacao = "+"; // pode ser +, -, *, /
+$operacao = "+";
 
 if ($operacao == "+") {
     $resultado = $numero1 + $numero2;

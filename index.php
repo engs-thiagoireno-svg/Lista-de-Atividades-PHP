@@ -5,7 +5,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Exercícios Back-End PHP</title>
+    <title> Tarefa Back-End PHP</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -46,39 +46,39 @@
     </style>
 </head>
 <body>
-    <h1>Exercícios Back-End PHP</h1>
+    <h1>Back-End PHP</h1>
 
     <h2>1. If / Else</h2>
     <ul>
-        <li><a href="01-if-else/ex1-maioridade.php">Ex1 - Maioridade</a></li>
-        <li><a href="01-if-else/ex2-classificacao-dinheiro.php">Ex2 - Classificação Dinheiro</a></li>
-        <li><a href="01-if-else/ex3-calculadora-operacao.php">Ex3 - Calculadora Operação</a></li>
+        <li><a href="01-if-else/ex1-maioridade.php">Maioridade</a></li>
+        <li><a href="01-if-else/ex2-classificacao-dinheiro.php">Classificação Dinheiro</a></li>
+        <li><a href="01-if-else/ex3-calculadora-operacao.php">Calculadora Operação</a></li>
     </ul>
 
     <h2>2. Loops</h2>
     <ul>
-        <li><a href="02-loops/ex4-numeros-pares.php">Ex4 - Números Pares</a></li>
-        <li><a href="02-loops/ex5-tabuada.php">Ex5 - Tabuada</a></li>
+        <li><a href="02-loops/ex4-numeros-pares.php">Números Pares</a></li>
+        <li><a href="02-loops/ex5-tabuada.php">Tabuada</a></li>
     </ul>
 
     <h2>3. Funções</h2>
     <ul>
-        <li><a href="03-funcoes/ex6-saudacao.php">Ex6 - Saudação</a></li>
-        <li><a href="03-funcoes/ex7-soma-subtracao.php">Ex7 - Soma e Subtração</a></li>
+        <li><a href="03-funcoes/ex6-saudacao.php">Saudação</a></li>
+        <li><a href="03-funcoes/ex7-soma-subtracao.php">Soma e Subtração</a></li>
     </ul>
 
     <h2>4. Arrays</h2>
     <ul>
-        <li><a href="04-arrays/ex8-memes.php">Ex8 - Memes</a></li>
-        <li><a href="04-arrays/ex9-papagaios.php">Ex9 - Papagaios</a></li>
-        <li><a href="04-arrays/ex10-array-associativo.php">Ex10 - Array Associativo</a></li>
+        <li><a href="04-arrays/ex8-memes.php">Memes</a></li>
+        <li><a href="04-arrays/ex9-papagaios.php">Papagaios</a></li>
+        <li><a href="04-arrays/ex10-array-associativo.php">Array Associativo</a></li>
     </ul>
 
     <h2>5. Formulários</h2>
     <ul>
-        <li><a href="05-formularios/ex11-imc/formulario.php">Ex11 - Calculadora de IMC</a></li>
-        <li><a href="05-formularios/ex12-calculadora/formulario.php">Ex12 - Calculadora HTML</a></li>
-        <li><a href="05-formularios/ex13-cadastro/formulario.php">Ex13 - Cadastro</a></li>
+        <li><a href="05-formularios/ex11-imc/formulario.php">Calculadora de IMC</a></li>
+        <li><a href="05-formularios/ex12-calculadora/formulario.php">Calculadora HTML</a></li>
+        <li><a href="05-formularios/ex13-cadastro/formulario.php">Cadastro</a></li>
     </ul>
 </body>
 </html>

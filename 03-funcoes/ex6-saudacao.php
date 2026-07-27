@@ -1,6 +1,6 @@
 <?php
 function saudacao($nome) {
-    echo "Bão " . $nome . "!";
+    echo "Coe" . $nome . "!";
 }
 
 saudacao("Thiago");

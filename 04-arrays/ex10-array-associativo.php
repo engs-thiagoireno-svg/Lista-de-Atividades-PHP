@@ -1,9 +1,9 @@
 <?php
 $pessoa = [
-    "nome" => "João Silva",
-    "idade" => 25,
+    "nome" => "Thiago Ireno",
+    "idade" => 21,
     "cidade" => "Guarapuava",
-    "tchola" => "R$ 1.500,00"
+    "tchola" => "Eu sou bem Macho"
 ];
 
 echo "Nome: " . $pessoa["nome"] . "<br>";
